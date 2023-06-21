@@ -13,7 +13,7 @@ Además se utlizo Figma para el diseño previo del proyecto: [link al archivo](h
 
 ## Vista previa del diseño:
 
-![Diseño. Screenshoot](./images/imagen-previa.png) 
+![Diseño. Screenshoot](./imagenes/imagen-previa.png) 
 
 
 ## Autora: 
